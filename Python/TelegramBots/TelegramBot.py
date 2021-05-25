@@ -35,8 +35,8 @@ class BotHandler:
         return last_update
 
 
-token = 'YourToken' #Token of your bot
-magnito_bot = BotHandler(token) #Your bot's name
+token = '1817980231:AAEn_LosQV64K3O468nHuNiSJK7z7aBkZ7g' #Token of your bot
+magnito_bot = BotHandler(1817980231:AAEn_LosQV64K3O468nHuNiSJK7z7aBkZ7g) #Your bot's name
 
 
 
